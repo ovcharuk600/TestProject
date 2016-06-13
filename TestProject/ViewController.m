@@ -20,6 +20,6 @@
 
 - (void) addNewInformation
 {
-
+    NSLog(@"New branch activity.");
 }
 @end

@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+@property NSInteger integerValue;
+
 - (void) addNewInformation;
 
 @end
