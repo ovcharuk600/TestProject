@@ -16,7 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
-    
+}
+
+- (void) addNewInformation
+{
+
 }
 @end
