@@ -11,6 +11,7 @@
 @interface ViewController : UIViewController
 
 @property NSInteger integerValue;
+@property NSInteger numberTwo;
 
 - (void) addNewInformation;
 
